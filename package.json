@@ -1,0 +1,15 @@
+{
+  "name": "curso-node",
+  "version": "1.1.0",
+  "description": "Tutoriales del curso de Nodejs en el TdeA",
+  "main": "primero",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Rondon miCorreo@gmail.com",
+  "license": "ISC"
+}
